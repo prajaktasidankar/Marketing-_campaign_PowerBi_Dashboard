@@ -45,4 +45,5 @@ To design a **Power BI dashboard** that:
 - Compared **channel performance at a glance**
 
 🖼️ Dashboard Preview
-
+[Marketing Dashboard]
+(Dashboard_Preview.png)

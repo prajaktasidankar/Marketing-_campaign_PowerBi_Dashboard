@@ -47,4 +47,3 @@ To design a **Power BI dashboard** that:
 🖼️ Dashboard Preview
 [Marketing Dashboard]
 Dashboard Preview.png
-MSG: Updated image filename in README
